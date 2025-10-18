@@ -1,4 +1,4 @@
-##👋 Merhaba, ben Eyüp  👋
+## Merhaba, ben Eyüp  👋
 
 
 
