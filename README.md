@@ -1,6 +1,6 @@
-## Hi there 👋
+##👋 Merhaba, ben Eyüp  👋
 
-👋 Merhaba, ben Eyüp
+
 
 Web geliştirme alanında kendimi geliştiren bir front-end geliştiriciyim.
 HTML, CSS ve JavaScript temelleri üzerine çalışıyor, şu anda React ile modern arayüzler oluşturuyorum.
