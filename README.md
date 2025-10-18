@@ -9,6 +9,7 @@ Küçük projelerle başladım, şimdi ise kullanıcı deneyimine odaklanan web 
 Kod yazarken temiz, anlaşılır ve sürdürülebilir yapılar kurmaya önem veriyorum.
 
 💡 Öğrendikçe paylaşmayı, geliştikçe üretmeyi seviyorum.
+
 📍 Hedefim zamanla güçlü bir Full Stack JavaScript geliştiricisi olmak.
 
 📫 İletişim: eypaln65@gmail.com
