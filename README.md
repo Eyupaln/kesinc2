@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**kesinc2/kesinc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Merhaba, ben Eyüp
 
-Here are some ideas to get you started:
+Web geliştirme alanında kendimi geliştiren bir front-end geliştiriciyim.
+HTML, CSS ve JavaScript temelleri üzerine çalışıyor, şu anda React ile modern arayüzler oluşturuyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Küçük projelerle başladım, şimdi ise kullanıcı deneyimine odaklanan web uygulamaları geliştirmeye çalışıyorum.
+Kod yazarken temiz, anlaşılır ve sürdürülebilir yapılar kurmaya önem veriyorum.
+
+💡 Öğrendikçe paylaşmayı, geliştikçe üretmeyi seviyorum.
+📍 Hedefim zamanla güçlü bir Full Stack JavaScript geliştiricisi olmak.
+
+📫 İletişim: LinkedIn
